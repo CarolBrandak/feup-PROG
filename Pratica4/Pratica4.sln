@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pratica4", "Pratica4.vcxproj", "{011CF42C-2BCF-4883-8357-D0D7F69189BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{011CF42C-2BCF-4883-8357-D0D7F69189BF}.Debug|x64.ActiveCfg = Debug|x64
+		{011CF42C-2BCF-4883-8357-D0D7F69189BF}.Debug|x64.Build.0 = Debug|x64
+		{011CF42C-2BCF-4883-8357-D0D7F69189BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{011CF42C-2BCF-4883-8357-D0D7F69189BF}.Debug|x86.Build.0 = Debug|Win32
+		{011CF42C-2BCF-4883-8357-D0D7F69189BF}.Release|x64.ActiveCfg = Release|x64
+		{011CF42C-2BCF-4883-8357-D0D7F69189BF}.Release|x64.Build.0 = Release|x64
+		{011CF42C-2BCF-4883-8357-D0D7F69189BF}.Release|x86.ActiveCfg = Release|Win32
+		{011CF42C-2BCF-4883-8357-D0D7F69189BF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FDB2FCF-D8F5-4055-BB75-25E63F8732FE}
+	EndGlobalSection
+EndGlobal
