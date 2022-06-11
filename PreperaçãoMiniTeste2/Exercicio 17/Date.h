@@ -7,9 +7,9 @@ class Date {
 public:
   Date();  // 1/1/1
   Date(int year, int month, int day);
-  int getYear() const;
-  int getMonth() const;
-  int getDay() const;
+  int getYear() const {return year_;}
+  int getMonth() const {return month_;}
+  int getDay() const {return day_;}
   bool is_before(const Date& date) const;
   void show() const { std::cout << year_ << '/' << month_ << '/' << day_; }
 private:
