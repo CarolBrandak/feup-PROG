@@ -2,7 +2,7 @@
 
 Date::Date(): year_(1), month_(1), year_(1) { }
 
-Date::Date(int year, int month, int day) year_(year), month_(month), year_(year) { }
+Date::Date(int year, int month, int day): year_(year), month_(month), year_(year) { }
 
 int Date::getYear() const { return year_;}
 
